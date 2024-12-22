@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mitul Sharma<br>🎓 Final Year Computer Science Engineering Student<br>🚀 Passionate about Software Development and Innovation<br>💻 Proficient in Python, Java, and Web Technologies<br>🔍 Exploring the World of Algorithms and Data Structures<br>📚 Constantly Learning and Growing in the Tech World<br>🌐 Open to Collaboration and Exciting Projects<br>🌟 Let's Connect and Build Amazing Software Together!<br><br>📫 Reach me at mitul01@yahoo.com<br>
+👋 Hi, I'm Mitul Sharma<br>🎓Computer Science Engineering Student<br>🚀 Passionate about Software Development and Innovation<br>💻 Proficient in Python, Java, and Web Technologies<br>🔍 Exploring the World of Algorithms and Data Structures<br>📚 Constantly Learning and Growing in the Tech World<br>🌐 Open to Collaboration and Exciting Projects<br>🌟 Let's Connect and Build Amazing Software Together!<br><br>📫 Reach me at mitul01@yahoo.com<br>
 
 
 ## 🌐 Socials:
